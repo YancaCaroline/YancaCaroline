@@ -1,16 +1,14 @@
-### Hi there 👋
+Oi pessoal!
 
-<!--
-**YancaCaroline/YancaCaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yanca Caroline, mas pode me chamar de Yanca, sou formada em psicologia desde 2018, atuei por trÊs anos na área, mas não me sentia completa, até que me encontrei na área da tecnologia.
+Estudo Análise e desenvolvimento de Sistemas EAD no Centro Universitário Estácio de Santa Catarina, termino no primeiro semestre de 2024, também faço um curso de desenvolvimento de software para se tornar desenvolvedora junior fullstack, termino em Novembro de 2022.
 
-Here are some ideas to get you started:
+Para me encontrar:
+Likedin: https://www.linkedin.com/in/yanca-caroline-oliveira-ferreira-aa9735115
+facebook: https://www.facebook.com/yanca.carolinne
+instagram: https://www.instagram.com/yanca_carollinneh/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hard Skills:
+HTML, CSS, JS, React, Node, PostgreeSQL, Express, APIRest.
+
+
